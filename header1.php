@@ -104,7 +104,7 @@ if($_SESSION["loggedin"]!== true){
             </div>
             <div class="col-md-9 col-lg-9 bg-light">
                 <div class=" row bg-white">
-                    <div class="col-md-7 cl-lg-7 ">
+                    <div class="col-md-7 col-lg-7 ">
                         <nav class="navbar navbar-light">
                             <div class="container-fluid ">
                                 <form class="d-flex ">
